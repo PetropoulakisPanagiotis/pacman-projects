@@ -2,7 +2,7 @@
 # Pacman project
 ![alt text](https://upload.wikimedia.org/wikipedia/el/0/00/Pac-Man.png) <br />
 
-I have completed two pacman projects of the UC Berkeley CS188 Intro to AI course and you can find my solutions in this repository.  
+I have completed two Pacman projects of the UC Berkeley CS188 Intro to AI course, and you can find my solutions accompanied by comments.  
 
 ## Links
 1. http://ai.berkeley.edu/search.html
