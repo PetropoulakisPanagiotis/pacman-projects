@@ -1,6 +1,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Pacman project
-![alt text](https://upload.wikimedia.org/wikipedia/el/0/00/Pac-Man.png) <br />
+<p align="center">
+
+![alt text](https://upload.wikimedia.org/wikipedia/el/0/00/Pac-Man.png)</p> <br />
 
 I have completed two Pacman projects of the UC Berkeley CS188 Intro to AI course, and you can find my solutions accompanied by comments.  
 
